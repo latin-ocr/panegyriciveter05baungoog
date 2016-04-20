@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./panegyriciveter05baungoog_0009.png"; bbox 0 0 3084 4959; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 623 1817 2377 1927">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 623 1817 2377 1927">
+     <span class='ocr_line' id='line_1_1' title="bbox 623 1817 2377 1927; baseline 0.001 -5"><span class='ocrx_word' id='word_1_1' title='bbox 623 1817 1550 1926; x_wconf 87' lang='lat' dir='ltr'><strong>PANEGYRICI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1654 1820 1870 1926; x_wconf 91' lang='lat' dir='ltr'><strong>UN</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1892 1819 2377 1927; x_wconf 90' lang='lat' dir='ltr'>DECIM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1280 2162 1731 2290">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1280 2162 1731 2290">
+     <span class='ocr_line' id='line_1_2' title="bbox 1280 2162 1731 2290; baseline -0.007 -51"><span class='ocrx_word' id='word_1_4' title='bbox 1280 2162 1731 2290; x_wconf 62' lang='lat' dir='ltr'><strong>RELIQUI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 512 2468 2502 2539">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 512 2468 2502 2539">
+     <span class='ocr_line' id='line_1_3' title="bbox 512 2468 2502 2539; baseline 0 -3"><span class='ocrx_word' id='word_1_5' title='bbox 512 2471 669 2537; x_wconf 87' lang='lat' dir='ltr'><strong>EX</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 746 2469 1502 2538; x_wconf 87' lang='lat' dir='ltr'><strong>EDITIONIBUS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1579 2468 2502 2539; x_wconf 86' lang='lat' dir='ltr'><strong>ARNTZENIORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1220 2759 1809 2813">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1220 2759 1809 2813">
+     <span class='ocr_line' id='line_1_4' title="bbox 1220 2759 1809 2813; baseline 0.003 -3"><span class='ocrx_word' id='word_1_8' title='bbox 1220 2759 1432 2811; x_wconf 80' lang='lat' dir='ltr'><strong>AMST.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1465 2763 1809 2813; x_wconf 74' lang='lat'><strong>1⁷53—1790.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
